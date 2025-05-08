@@ -1,7 +1,3 @@
-Here's a `README.md` focused solely on explaining the code structure and functionality:
-
----
-
 # Tic-Tac-Toe MDP & Reinforcement Learning Agents
 
 This project implements agents for the Tic-Tac-Toe game using **Markov Decision Processes (MDPs)** and **Reinforcement Learning (RL)** techniques. The project includes three primary agents: **Value Iteration**, **Policy Iteration**, and **Q-Learning**. Below is an overview of the core classes and the role they play in the implementation.
